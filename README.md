@@ -1,0 +1,1 @@
+First exercise from the Odin Project.
